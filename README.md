@@ -1,1 +1,2 @@
 # Face-Recognition
+Face recognition & detection is a digital technique based on artificial intelligence (AI) that finds and recognizes human faces from images. Face images are converted into numerical expressions using computer-generated filters used in facial recognition, which may then be compared to determine how similar they are. A person can be recognized by this system only by looking at them. It identifies, collects, stores, and evaluates facial features using machine learning algorithms so that they may be compared to images of people in a database.
